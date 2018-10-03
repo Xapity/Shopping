@@ -19,7 +19,7 @@ public class Shopping {
         int num1, num2, num3;//declaring variables
         double ans1, ans2, ans3, fin;
         DecimalFormat x;//setting up deciaml format
-        x = new DecimalFormat ("#####.##");
+        x = new DecimalFormat ("######.##");
         final double KEY, USB, MOUSE, TAX;
         TAX = 1.13;
         KEY = 49.99;
